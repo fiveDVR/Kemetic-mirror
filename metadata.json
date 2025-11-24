@@ -1,0 +1,8 @@
+{
+  "name": "The Kemetic Mirror",
+  "description": "Transform yourself into an Ancient Egyptian icon using generative AI. Select a divine archetype and let the mirror reveal your ancient form.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
